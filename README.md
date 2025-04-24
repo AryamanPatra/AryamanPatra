@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Aryaman Patra
+# 👋 Hey there, I'm Aryaman Patra
 
 🎓 BTech CSE (3rd Year) student from India  
 📱 Aspiring Android Developer | 🤖 Exploring Machine Learning  
