@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Aryaman Patra
 
-🎓 BTech CSE (3rd Year) student from India  
+🎓 BTech CSE (4th Year) student from India  
 📱 Aspiring Android Developer | 🤖 Exploring Machine Learning  
 🎮 Gamer by passion | 💻 Developer by ambition
 
